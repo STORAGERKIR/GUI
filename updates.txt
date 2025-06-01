@@ -1,1 +1,34 @@
 
+Key changes made:
+
+Added a setup_logging() method that:
+
+Creates a loggs.KKR directory on the desktop if it doesn't exist
+
+Downloads and extracts the logging package from GitHub if needed
+
+Creates a new loggs.txt file if the download fails
+
+Added a log_action() method that:
+
+Records actions with timestamps
+
+Appends them to the log file
+
+Handles potential logging errors gracefully
+
+Integrated logging throughout the application:
+
+Added logging for all major actions (login attempts, button clicks, downloads, etc.)
+
+For security, only logs the first character of passwords
+
+Logs both successful and failed operations
+
+Records when the application starts and closes
+
+Modified button commands to include logging before performing actions
+
+The logging system will now record all significant actions in the loggs.txt file within the loggs.KKR directory on the user's desktop. The logs include timestamps and details about what actions were taken, making it easy to track user activity within the application.
+
+Note that I fixed a typo in the original URL you provided (it had the URL twice in the string). The code now properly downloads from https://github.com/STORAGERKIR/GUI/raw/downloads/loggs.KKR.zip.
