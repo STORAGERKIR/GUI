@@ -2,8 +2,7 @@
 
 *A password-protected GUI application with powerful tools and utilities, built with Python and Tkinter.*
 
-![KKR GUI Screenshot](https://via.placeholder.com/600x500)  
-*(Replace with an actual screenshot of your app!)*  
+![KKR GUI Screenshot](https://via.placeholder.com/600x500)    
 
 ---
 
