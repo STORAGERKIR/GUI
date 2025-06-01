@@ -1,4 +1,10 @@
 
+<details>
+  <summary>Dit is de titel</summary>
+
+  verborgen tekst
+  
+</details>
 
 #  ``` GUI ```
 
