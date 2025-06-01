@@ -12,64 +12,64 @@
 
 
 # 1. Authentication System
-###  Password-protected login
+###  *Password-protected login
 
-### Remote password verification from GitHub
+### *Remote password verification from GitHub
 
-### Logout functionality
+### *Logout functionality
 
 # 2. Main Interface
 ## Dashboard with quick links
 
-## Settings panel
+## *Settings panel
 
-##Tools section
+## *Tools section
 
-## Help and support section
+## *Help and support section
 
 # 3. Settings Features
 ## Theme Selection:
 
-### Grey theme
+### *Grey theme
 
-### Black theme
+### *Black theme
 
-### White theme
+### *White theme
 
-### Update Checker:
+### *Update Checker:
 
-#### Button to check for updates on GitHub
+#### *Button to check for updates on GitHub
 
 ## FilterKeys (Delay Fixer):
 
-### Downloads and runs FilterKeysSetter.exe
+### *Downloads and runs FilterKeysSetter.exe
 
-### Saves to desktop and automatically executes
+### *Saves to desktop and automatically executes
 
 # 4. Tools Section
 ## Solara Tool:
 
-### Downloads BootstrapperNew.exe
+### *Downloads BootstrapperNew.exe
 
-### Saves to desktop and automatically executes
+### *Saves to desktop and automatically executes
 
 ## UNDETEK cs2 Tool:
 
-### Downloads undetek-v9.9.7.zip
+### *Downloads undetek-v9.9.7.zip
 
-### Extracts to desktop
+### *Extracts to desktop
 
-### Opens undetek website
+### *Opens undetek website
 
 ## Meteor Client 1.21.4:
 
-### Downloads minecraftmods1.21.4.zip
+### *Downloads minecraftmods1.21.4.zip
 
-### Extracts to "MeteorClient_1.21.4" folder on desktop
+### *Extracts to "MeteorClient_1.21.4" folder on desktop
 
 ## Disabled Tools (placeholder):
 
-### Debugger (currently disabled)
+### *Debugger (currently disabled)
 
 # 5. Help Section
 ### Contact information (email)
