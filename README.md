@@ -13,10 +13,8 @@
 
 ---
 
+   
 
-![KKR GUI Screenshot](https://via.placeholder.com/600x500)    
-
----
 
 ## ✨ Features  
 
