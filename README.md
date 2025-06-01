@@ -1,90 +1,58 @@
+# KKR - Secure Access GUI
 
-<details>
-  <summary>password</summary>
+A secure, password-protected GUI application with various tools and utilities.
 
-  ``` kankerjood271 ``` 
-  
-</details>
+![KKR GUI Screenshot](https://via.placeholder.com/600x500)  <!-- Replace with actual screenshot -->
 
-# 🖥️ GUI Toolbox
+## Features
 
-**Have fun using this GUI for tools and so much more!**  
-
-*(Adding logs and updates in `update files` and here below)*  
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇  
-
----
-
-## 🔐 Authentication
+### Authentication System
+- Password-protected login
 - Remote password verification from GitHub
-- Logout functionality
+- Secure logging (only first character of password attempts logged)
 
----
+### Main Interface
+- Dashboard with quick links
+- Settings panel
+- Tools section
+- Help and support section
 
-## � Main Interface
-- **Dashboard** with quick links
-- **Settings panel**
-- **Tools section**
-- **Help and support section**
+### Available Tools
+1. **Solara** - Downloads and runs BootstrapperNew.exe
+2. **UNDETEK cs2** - Downloads undetek-v9.9.7.zip and opens official website
+3. **Meteor Client 1.21.4** - Downloads and extracts Minecraft mods
+4. **FilterKeys (Delay Fixer)** - Downloads and runs FilterKeysSetter.exe
 
----
+### Settings
+- Theme selection (Grey, Black, White)
+- Update checker
+- FilterKeys utility download
 
-## ⚙️ Settings Features
-### 🎨 Theme Selection
-- Grey theme
-- Black theme
-- White theme
+### Logging System
+- Automatic log file creation on desktop (`loggs.KKR/loggs.txt`)
+- Timestamped actions
+- Error logging
 
-### 🔄 Update Checker
-- Button to check for updates on GitHub
+## Functions
 
-### ⌨️ FilterKeys (Delay Fixer)
-- Downloads and runs `FilterKeysSetter.exe`
-- Saves to desktop and automatically executes
+### Core Functions
+- `setup_logging()` - Initializes logging system
+- `log_action(action)` - Logs actions with timestamp
+- `verify_password()` - Checks password against remote repository
+- `change_theme(theme_num)` - Changes application theme
 
----
+### Download Utilities
+- `download_and_run_filterkeys()` - Downloads FilterKeysSetter.exe
+- `download_meteor_client()` - Downloads Minecraft Meteor Client
+- `download_and_run_bootstrapper()` - Downloads BootstrapperNew.exe
+- `download_undetek_and_open_site()` - Downloads UNDETEK and opens website
 
-## 🛠️ Tools Section
-### 🚀 Solara Tool
-- Downloads `BootstrapperNew.exe`
-- Saves to desktop and automatically executes
+### UI Management
+- `show_login_screen()` - Displays authentication screen
+- `show_main_interface()` - Shows main application interface
+- `show_category_content(category)` - Displays content for selected category
+- `clear_window()` - Clears all widgets from root window
 
-### 🎮 UNDETEK CS2 Tool
-- Downloads `undetek-v9.9.7.zip`
-- Extracts to desktop
-- Opens undetek website
-
-### ⛏️ Meteor Client 1.21.4
-- Downloads `minecraftmods1.21.4.zip`
-- Extracts to "MeteorClient_1.21.4" folder on desktop
-
-### ⚠️ Disabled Tools
-- Debugger (currently disabled)
-
----
-
-## ❓ Help Section
-- Contact information (email)
-- Version information
-- Discord link button
-- Logout button
-
----
-
-## 💻 Technical Features
-- Auto-topmost window (always stays on top)
-- Non-resizable window (fixed size)
-- Clean, modern GUI with ttk widgets
-- Error handling with user feedback
-- Desktop file operations (downloads, extracts, runs)
-
----
-
-## 📥 Download/Install Features
-- All tools download files to user's desktop
-- Automatic execution of downloaded executables
-- Automatic extraction of zip files
-
----
-
-> *Note: Use responsibly and in accordance with all applicable laws and terms of service.*
+## Requirements
+- Python 3.x
+- Required packages:
