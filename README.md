@@ -1,3 +1,6 @@
+# CURRENTLY HAS AN KEYLOGGER DONT USE UNLESS U CHANNGE THE CODE 
+
+
 #  ``` GUi ```
 
 ## ```  have fun using the GUI for tools and so much more! ``` 
@@ -16,5 +19,5 @@
 
 ###  * Help section with contact information
 
-### * Status bar showing keylogger activity
+
 
