@@ -10,95 +10,95 @@
 
 #   ```  PASSWORD = kankerjood271 ```
 
-``` 
-1. Authentication System
-Password-protected login
 
-Remote password verification from GitHub
+# 1. Authentication System
+###  Password-protected login
 
-Logout functionality
+### Remote password verification from GitHub
 
-2. Main Interface
-Dashboard with quick links
+### Logout functionality
 
-Settings panel
+# 2. Main Interface
+## Dashboard with quick links
 
-Tools section
+## Settings panel
 
-Help and support section
+##Tools section
 
-3. Settings Features
-Theme Selection:
+## Help and support section
 
-Grey theme
+# 3. Settings Features
+## Theme Selection:
 
-Black theme
+### Grey theme
 
-White theme
+### Black theme
 
-Update Checker:
+### White theme
 
-Button to check for updates on GitHub
+### Update Checker:
 
-FilterKeys (Delay Fixer):
+#### Button to check for updates on GitHub
 
-Downloads and runs FilterKeysSetter.exe
+## FilterKeys (Delay Fixer):
 
-Saves to desktop and automatically executes
+### Downloads and runs FilterKeysSetter.exe
 
-4. Tools Section
-Solara Tool:
+### Saves to desktop and automatically executes
 
-Downloads BootstrapperNew.exe
+# 4. Tools Section
+## Solara Tool:
 
-Saves to desktop and automatically executes
+### Downloads BootstrapperNew.exe
 
-UNDETEK cs2 Tool:
+### Saves to desktop and automatically executes
 
-Downloads undetek-v9.9.7.zip
+## UNDETEK cs2 Tool:
 
-Extracts to desktop
+### Downloads undetek-v9.9.7.zip
 
-Opens undetek website
+### Extracts to desktop
 
-Meteor Client 1.21.4:
+### Opens undetek website
 
-Downloads minecraftmods1.21.4.zip
+## Meteor Client 1.21.4:
 
-Extracts to "MeteorClient_1.21.4" folder on desktop
+### Downloads minecraftmods1.21.4.zip
 
-Disabled Tools (placeholder):
+### Extracts to "MeteorClient_1.21.4" folder on desktop
 
-Debugger (currently disabled)
+## Disabled Tools (placeholder):
 
-5. Help Section
-Contact information (email)
+### Debugger (currently disabled)
 
-Version information
+# 5. Help Section
+### Contact information (email)
 
-Discord link button
+### Version information
 
-Logout button
+###  Discord link button
 
-6. Technical Features
-Auto-topmost window (always stays on top)
+### Logout button
 
-Non-resizable window (fixed size)
+# 6. Technical Features
+### Auto-topmost window (always stays on top)
 
-Clean, modern GUI with ttk widgets
+###nNon-resizable window (fixed size)
 
-Error handling with user feedback
+### Clean, modern GUI with ttk widgets
 
-Desktop file operations (downloads, extracts, runs)
+### Error handling with user feedback
 
-7. Download/Install Features
-All tools download files to user's desktop
+### Desktop file operations (downloads, extracts, runs)
 
-Automatic execution of downloaded executables
+# 7. Download/Install Features
+### All tools download files to user's desktop
 
-Automatic extraction of zip files
+### Automatic execution of downloaded executables
 
-Progress notifications via message boxes
+### Automatic extraction of zip files
+
+### Progress notifications via message boxes
 
 
-``` 
+
