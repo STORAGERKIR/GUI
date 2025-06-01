@@ -10,11 +10,11 @@
 ##   UI Elements
 ###  Login screen with password protection
 
-###  Main dashboard with navigation
+### * Main dashboard with navigation
 
-### Settings panel for theme changes
+### * Settings panel for theme changes
 
-###   Help section with contact information
+###  * Help section with contact information
 
-### Status bar showing keylogger activity
+### * Status bar showing keylogger activity
 
