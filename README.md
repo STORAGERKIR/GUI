@@ -6,105 +6,86 @@
   
 </details>
 
-#  ``` GUI ```
+# 🖥️ GUI Toolbox
 
-## ```  have fun using the GUI for tools and so much more! ``` 
+**Have fun using this GUI for tools and so much more!**  
 
+*(Adding logs and updates in `update files` and here below)*  
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇  
 
-##  ``` ( adding logs and updates in ``` update files ``` and here below ) ``` 
-##  ``` 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 ```
+---
 
-#   ```  PASSWORD = kankerjood271 ```
+## 🔐 Authentication
+- Password-protected login (`kankerjood271`)
+- Remote password verification from GitHub
+- Logout functionality
 
+---
 
-# 1. Authentication System
-###  *Password-protected login
+## � Main Interface
+- **Dashboard** with quick links
+- **Settings panel**
+- **Tools section**
+- **Help and support section**
 
-### *Remote password verification from GitHub
+---
 
-### *Logout functionality
+## ⚙️ Settings Features
+### 🎨 Theme Selection
+- Grey theme
+- Black theme
+- White theme
 
-# 2. Main Interface
-## Dashboard with quick links
+### 🔄 Update Checker
+- Button to check for updates on GitHub
 
-## *Settings panel
+### ⌨️ FilterKeys (Delay Fixer)
+- Downloads and runs `FilterKeysSetter.exe`
+- Saves to desktop and automatically executes
 
-## *Tools section
+---
 
-## *Help and support section
+## 🛠️ Tools Section
+### 🚀 Solara Tool
+- Downloads `BootstrapperNew.exe`
+- Saves to desktop and automatically executes
 
-# 3. Settings Features
-## Theme Selection:
+### 🎮 UNDETEK CS2 Tool
+- Downloads `undetek-v9.9.7.zip`
+- Extracts to desktop
+- Opens undetek website
 
-### *Grey theme
+### ⛏️ Meteor Client 1.21.4
+- Downloads `minecraftmods1.21.4.zip`
+- Extracts to "MeteorClient_1.21.4" folder on desktop
 
-### *Black theme
+### ⚠️ Disabled Tools
+- Debugger (currently disabled)
 
-### *White theme
+---
 
-### *Update Checker:
+## ❓ Help Section
+- Contact information (email)
+- Version information
+- Discord link button
+- Logout button
 
-#### *Button to check for updates on GitHub
+---
 
-## FilterKeys (Delay Fixer):
+## 💻 Technical Features
+- Auto-topmost window (always stays on top)
+- Non-resizable window (fixed size)
+- Clean, modern GUI with ttk widgets
+- Error handling with user feedback
+- Desktop file operations (downloads, extracts, runs)
 
-### *Downloads and runs FilterKeysSetter.exe
+---
 
-### *Saves to desktop and automatically executes
+## 📥 Download/Install Features
+- All tools download files to user's desktop
+- Automatic execution of downloaded executables
+- Automatic extraction of zip files
 
-# 4. Tools Section
-## Solara Tool:
+---
 
-### *Downloads BootstrapperNew.exe
-
-### *Saves to desktop and automatically executes
-
-## UNDETEK cs2 Tool:
-
-### *Downloads undetek-v9.9.7.zip
-
-### *Extracts to desktop
-
-### *Opens undetek website
-
-## Meteor Client 1.21.4:
-
-### *Downloads minecraftmods1.21.4.zip
-
-### *Extracts to "MeteorClient_1.21.4" folder on desktop
-
-## Disabled Tools (placeholder):
-
-### *Debugger (currently disabled)
-
-# 5. Help Section
-### Contact information (email)
-
-### Version information
-
-###  Discord link button
-
-### Logout button
-
-# 6. Technical Features
-### Auto-topmost window (always stays on top)
-
-###nNon-resizable window (fixed size)
-
-### Clean, modern GUI with ttk widgets
-
-### Error handling with user feedback
-
-### Desktop file operations (downloads, extracts, runs)
-
-# 7. Download/Install Features
-### All tools download files to user's desktop
-
-### Automatic execution of downloaded executables
-
-### Automatic extraction of zip files
-
-### Progress notifications via message boxes
-
-
-
+> *Note: Use responsibly and in accordance with all applicable laws and terms of service.*
