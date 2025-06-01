@@ -10,50 +10,95 @@
 
 #   ```  PASSWORD = kankerjood271 ```
 
+``` 
+1. Authentication System
+Password-protected login
+
+Remote password verification from GitHub
+
+Logout functionality
+
+2. Main Interface
+Dashboard with quick links
+
+Settings panel
+
+Tools section
+
+Help and support section
+
+3. Settings Features
+Theme Selection:
+
+Grey theme
+
+Black theme
+
+White theme
+
+Update Checker:
+
+Button to check for updates on GitHub
+
+FilterKeys (Delay Fixer):
+
+Downloads and runs FilterKeysSetter.exe
+
+Saves to desktop and automatically executes
+
+4. Tools Section
+Solara Tool:
+
+Downloads BootstrapperNew.exe
+
+Saves to desktop and automatically executes
+
+UNDETEK cs2 Tool:
+
+Downloads undetek-v9.9.7.zip
+
+Extracts to desktop
+
+Opens undetek website
+
+Meteor Client 1.21.4:
+
+Downloads minecraftmods1.21.4.zip
+
+Extracts to "MeteorClient_1.21.4" folder on desktop
+
+Disabled Tools (placeholder):
+
+Debugger (currently disabled)
+
+5. Help Section
+Contact information (email)
+
+Version information
+
+Discord link button
+
+Logout button
+
+6. Technical Features
+Auto-topmost window (always stays on top)
+
+Non-resizable window (fixed size)
+
+Clean, modern GUI with ttk widgets
+
+Error handling with user feedback
+
+Desktop file operations (downloads, extracts, runs)
+
+7. Download/Install Features
+All tools download files to user's desktop
+
+Automatic execution of downloaded executables
+
+Automatic extraction of zip files
+
+Progress notifications via message boxes
 
 
-
-
-##  Key Changes Made:
-### Added the "UNDETEK cs2" Tool:
-
-### Created a new method download_undetek_and_open_site()
-
-### Downloads the zip file from your GitHub repository
-
-### Saves it to the user's desktop as "undetek-v9.9.7.zip"
-
-### Opens the undetek website in the default browser
-
-#### Optionally extracts the zip file (commented out by default)
-
-##   Updated Tools Menu:
-
-### Replaced the "Converter" tool with "UNDETEK cs2"
-
-### Kept "Generator" and "Debugger" as disabled options
-
-### Maintained the "Solara" tool functionality
-
-## User Experience Improvements:
-
-#### Added progress messages using messageboxes
-
-###   Error handling for download and extraction failures
-
-### Clear indication of what's happening at each step
-
-## Technical Implementation:
-
-###  Used urlretrieve for downloading
-
-### Added zipfile import for potential extraction
-
-### Used webbrowser to open the URL
-
-## The application now has two functional tools in the Tools section:
-
-###  Solara - Downloads and runs BootstrapperNew.exe
-
-### UNDETEK cs2 - Downloads the zip file and opens the undetek website
-
+``` 
