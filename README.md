@@ -16,7 +16,6 @@
 ---
 
 ## 🔐 Authentication
-- Password-protected login (`kankerjood271`)
 - Remote password verification from GitHub
 - Logout functionality
 
