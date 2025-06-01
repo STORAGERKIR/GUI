@@ -7,5 +7,14 @@
 ##  ``` 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 ```
 
 
+##   UI Elements
+###  Login screen with password protection
 
+###  Main dashboard with navigation
+
+### Settings panel for theme changes
+
+###   Help section with contact information
+
+### Status bar showing keylogger activity
 
