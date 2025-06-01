@@ -1,8 +1,8 @@
 
 <details>
-  <summary>Dit is de titel</summary>
+  <summary>#password</summary>
 
-  verborgen tekst
+  ``` kankerjood271 ``` 
   
 </details>
 
