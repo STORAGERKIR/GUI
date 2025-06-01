@@ -9,7 +9,7 @@
 </details>
 
 
-![KKR GUI Screenshot](https://via.placeholder.com/600x500)    
+![KKR GUI Screenshot](https://www.kkr.com/content/dam/kkr/bio/headshots/Guillaume%20Cassou.jpeg)    
 
 ---
 
