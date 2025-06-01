@@ -60,4 +60,4 @@ python KKR_GUI.py
 
 
 
-![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)    ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)     ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)    
+![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)    ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)     ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)    ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)   
