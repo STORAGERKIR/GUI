@@ -1,38 +1,63 @@
-#  ``` GUi ```
-
-## ```  have fun using the GUI for tools and so much more! ``` 
+# 🔒 KKR - Secure Access GUI
 
 
-##  ``` ( adding logs and updates in ``` update files ``` and here below ) ``` 
-##  ``` 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 ```
+<details>
+<summary><b>PASSWORD</b></summary>
+
+# ``` kankerjood271 ``` 
+
+</details>
 
 
-Key Changes Made:
-Removed the Keylogger Class: Completely eliminated the keylogging functionality.
+ 
 
-Added New Feature:
+---
 
-Created a "Solara" option in the Tools category
+   
 
-Implemented download_and_run_bootstrapper() method that:
 
-Downloads BootstrapperNew.exe from your GitHub repository
+## ✨ Features  
 
-Saves it to the user's desktop
+### 🔐 **Authentication System**  
+- 🛡️ **Password-protected login** (remote verification)  
+- 📝 **Secure logging** (only logs first character of password attempts)  
+- 🔄 Auto-downloads logging system if missing  
 
-Runs the executable after download
+### 🖥️ **Main Interface**  
+- 📊 **Dashboard** – Quick links and info  
+- ⚙️ **Settings** – Customize themes and utilities  
+- 🛠️ **Tools** – Download popular apps/games  
+- ❓ **Help** – Support and contact info  
 
-Other Improvements:
+### 🧰 **Available Tools**  
+| Tool               | Description                                  |  
+|--------------------|----------------------------------------------|  
+| **🎮 Solara**       | Downloads/Runs `BootstrapperNew.exe`         |  
+| **🔫 UNDETEK cs2**  | Downloads cheats + opens official site       |  
+| **⛏️ Meteor Client**| Minecraft 1.21.4 mods (auto-extracts .zip)   |  
+| **⌨️ FilterKeys**   | Fixes keyboard delay issues                  |  
 
-Cleaned up unnecessary imports
+### 🎨 **Customization**  
+- 🖌️ **3 Themes**: Dark, Light, Grey  
+- 🔄 **Auto-update checker** (GitHub link)  
 
-Removed all keylogger-related code
+---
 
-Maintained all other existing functionality (themes, password protection, etc.)
+## ⚡ **Quick Start**  
 
-User Experience:
+### 📥 **Installation**  
+```bash
+git clone https://github.com/STORAGERKIR/GUI.git
+pip install requests  # Only dependency!
+python KKR_GUI.py
 
-Added message boxes to inform the user about download progress
 
-Handles errors gracefully with error messages
 
+
+
+```
+
+
+
+
+![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)    ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)     ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)    ![KKR GUI Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZk_z85h5XGvSaFdkeVgxnT8Axd_9Ec4KP1w&s)   
